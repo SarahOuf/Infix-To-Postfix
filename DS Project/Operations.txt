@@ -1,0 +1,16 @@
+
+
+sarah
+
+sarah
+
+sarah
+
+The infix expression :x*x+x
+
+The postfix expression :xx*x+
+
+sarah
+
+Equation before symbolic diff : x^2+1
+
